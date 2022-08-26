@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo.png" height="100" />
+<img src="profile/logo.png" height="100" />
 </p>
 
 <h1 align="center">GDG Cloud Pune</h1>
